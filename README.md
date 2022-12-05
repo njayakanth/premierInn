@@ -1,6 +1,4 @@
-# premierInn
-
-# webdriverio-v6-cucumber
+# Hotel booking in Premier Inn Android App
 
 ## Requirements
 
