@@ -13,7 +13,7 @@
 - Appium real device execution
 - Native Android and iOS apps
 - Supports Page Object Model
-- Contains booking journey Scenarios written in Declarative style of BDD
+- Contains hotel booking journey scenarios written in Declarative style of BDD
 
 ## Running end-to-end tests
 
